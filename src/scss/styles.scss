@@ -1,2 +1,2 @@
-@use '_globals.scss';
-@use '_variables.scss';
+@use './Global/index' as global;
+@use './Pages/index' as pages;
